@@ -20,7 +20,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Prerequisites:** Willingness to have fun and think outside the box!
 
-**Course Files:** Available at the [Session Files](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files) folder.
+**Course Files:** Available at the [Session Files](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files) folder.
 
 ## Schedule
 
@@ -47,8 +47,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Coloring parts and changing material properties.
 
 **Session Activity:** Using the tools learned on Session 1, we’ll design a variety of items, including:
-* A first-generation Apple iPod Classic.
-* A first-generation iPod USB Power Adapter.
+* A first-generation Apple [iPod](https://cdn-ikpohij.nitrocdn.com/AXRAXcxbIDfamOcyXpIyolAXghrCRPuu/assets/images/optimized/rev-0693444/apple.cybersify.tech/wp-content/uploads/2018/06/Apple-iPod-Original-1st-Generation-Specs.jpg) Classic.
+* A first-generation iPod USB [Power Adapter](https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2006/472/x472USBPAD-f.jpeg).
 
 **Session Recordings:** 
 * Asynchronous: To be posted..
@@ -68,8 +68,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to add a picture and sketch on it.
 
 **Session Activity:** Using the tools learned on Session 2, we’ll design a variety of items, including:
-* An MIT [Angry Beaver](https://intramurals.mit.edu/wp-content/uploads/sites/2/2019/05/intramurals-angry-beaver-1-1.png) banner.
-* A keychain of your favorite airline. 
+* An MIT [intramurals](https://intramurals.mit.edu/wp-content/uploads/sites/2/2019/05/mit-intramurals-color.png) banner.
+* A keychain of your favorite sports team.
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
@@ -91,7 +91,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Activity:** Using the tools learned on Session 3, we’ll design a variety of items, including:
 * A fidget spinner!
-* A Chinese [pagoda](https://i.pinimg.com/originals/30/f0/1d/30f01de48bde58a4acbf565a924a7d35.jpg).
+* A model of the [Taipei 101](https://www.always5star.com/wp-content/uploads/2019/01/always5star-taipei-taiwan-101-building-1.jpg) tower.
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
@@ -109,7 +109,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Continuing to master previously explored tools, such as revolve, linear/circular patterns and plane creation.
 
 **Session Activity:** Using the tools learned on Session 4, we’ll design a variety of items, including:
-* A HEAD [Paddle Tennis](https://padelusa.com/cdn/shop/files/Head-Extreme_Motion_Padel_Racket_PadelUSA_store_1.webp?v=1711743078) racket.
+* A Play Station 1 [controller](https://mikesgameshop.com/cdn/shop/products/005123-1.jpg?v=1659137472).
 * A banana, in honor of the banana lounge (using various plane cuts, splines and lofts).
 
 **Session Recordings:** 
@@ -122,7 +122,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 ---
 <a name="S4half"></a>
-### (BONUS) Session 4.5: Let's have a 3D-modeled Coke in Space!
+### (BONUS) Session 4.5: Let's have a 3D-modeled Coke!
 (online only)
 
 **Objective:** In this session, we’ll revise all of our previously learned commands (+ the useful wrap), to make sure we know how to properly use all of them. Session 4.5’s goals include: 
@@ -130,8 +130,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to employ the wrap command (for engravings).
 
 **Session Activity:** Using the tools learned on Session 5, we’ll design a variety of items, including:
-* A Diet Coke [222ml can](https://i5.walmartimages.com/asr/4e648786-e141-4a04-a612-2a4a42c0e423.49b830cbf38f440b0807099beb68fc07.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF) (with labels included).
-* An MIT [tech](https://sailing.mit.edu/future/g6/in_water.jpg) dinghy. 
+* A Coca Cola Light [150ml can](https://m.media-amazon.com/images/I/71g+q5PnDQL._UF894,1000_QL80_.jpg) (with labels included).
+* A model of the [X-wing](https://static.wikia.nocookie.net/starwars/images/8/80/X-wing_Fathead.png/revision/latest?cb=20161004003846) fighter.
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
@@ -151,10 +151,9 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to create an engineering drawing of a part and assembly (including exploded views).
 
 **Session Activity:** Using the tools learned on Session 5, we’ll design a variety of items, including:
-* A standard [2x4 LEGO brick](https://p.turbosquid.com/ts-thumb/I9/hYi8QZ/QyaXDmfH/lego_brick_2x4_earth_green_thumbnail_0000/jpg/1558617193/1920x1080/fit_q87/7a98b66fde1c475f97f5367029078a34496d722e/lego_brick_2x4_earth_green_thumbnail_0000.jpg) (as well as a 2x1, 2x1, 2x2, and 2x3 bricks; 2x3, 2x4, 2x6 and 2x8 plates; 2x2 and 2x3 slanted bricks).
-* A standard [2x4 LEGO plate](https://www.briquestore.fr/28179-home_default/lego-6286500-plate-2x4-nougat.jpg).
-* A simple [LEGO airplane](https://media.istockphoto.com/id/1352000895/vector/airplane-made-by-blocks-toy-building-block-bricks-for-children-vector-isometric-illustration.jpg?s=612x612&w=0&k=20&c=2yXIL9SeyGRjCLnDtrQr_nU5dfOrJCsVYyTq5LO8QW0=) assembly.
-* An engineering drawing of the airplane assembly and one of the LEGO bricks.
+* A standard [2x4 LEGO brick](https://p.turbosquid.com/ts-thumb/I9/hYi8QZ/QyaXDmfH/lego_brick_2x4_earth_green_thumbnail_0000/jpg/1558617193/1920x1080/fit_q87/7a98b66fde1c475f97f5367029078a34496d722e/lego_brick_2x4_earth_green_thumbnail_0000.jpg) (as well as numerous others)!
+* A simple [LEGO Tower Bridge](https://i.ytimg.com/vi/6iJMdX7n_7I/maxresdefault.jpg) assembly.
+* An engineering drawing of the Tower Bridge assembly and one of the LEGO bricks.
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
@@ -174,7 +173,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Creating configurations of the same model.
 
 **Session Activity:** Using the tools learned on Session 6, we’ll design a variety of items, including:
-* A wooden [toy train](https://m.media-amazon.com/images/I/71jmh8IR6jL.jpg) with tracks (with different configurations for the trains and wagons)!
+* An airplane [economy seat](https://prd-sc102-cdn.rtx.com/-/media/ca/product-assets/marketing/0-9/1/1703-be-777-aspire-cam1-b-1920x1080.jpg?rev=0e2abb1805e248d5af40a8876fc3243d) (and multiple configurations of it)!
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
