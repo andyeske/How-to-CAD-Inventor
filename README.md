@@ -173,7 +173,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Creating configurations of the same model.
 
 **Session Activity:** Using the tools learned on Session 6, we’ll design a variety of items, including:
-* An airplane [economy seat](https://prd-sc102-cdn.rtx.com/-/media/ca/product-assets/marketing/0-9/1/1703-be-777-aspire-cam1-b-1920x1080.jpg?rev=0e2abb1805e248d5af40a8876fc3243d) (and multiple configurations of it)!
+* An airplane [economy seat](https://prd-sc102-cdn.rtx.com/-/media/ca/product-assets/marketing/0-9/1/1703-be-777-aspire-cam1-b-1920x1080.jpg?rev=0e2abb1805e248d5af40a8876fc3243d) (and its associated multiple configurations)!
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
