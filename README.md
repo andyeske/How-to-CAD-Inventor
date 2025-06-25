@@ -22,7 +22,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Course Files:** Available at the [Session Files](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files) folder.
 
-**Software:** Autodesk Inventor. All [Autodesk](https://www.autodesk.com/education/edu-software/overview) products are available free of charge to students and educators.
+**Software:** [Autodesk Inventor](https://www.autodesk.com/products/inventor/overview?mktvar002=5659199|SEM|292754951|22909552031|kwd-28960010&utm_source=GGL&utm_medium=SEM&utm_campaign=GGL_D-M_All-Products_AMER_US_eComm_SEM_BR_NEW_EX_0000_5659199&utm_id=5659199&utm_term=kwd-28960010&term=1-YEAR&tab=subscription&mkwid=s|pcrid|754629033251|pkw|autodesk%20inventor|pmt|e|pdv|c|slid||pgrid|22909552031|ptaid|kwd-28960010|pid|&utm_medium=cpc&utm_source=bing&utm_campaign=GGL_INVENTOR_US_BR_SEM_EXACT&utm_term=autodesk%20inventor&utm_content=s|pcrid|754629033251|pkw|autodesk%20inventor|pmt|e|pdv|c|slid||pgrid|22909552031|ptaid|kwd-28960010|&gad_source=1&gad_campaignid=292754951&gbraid=0AAAAADx7pE2cdZCCdZ1P_KaZAMuraKM73&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJQrfONfwqa5YE3WSRjwhuWumgjS8p2DL4b1SknsZUFeiV_wnG8QohhoCOiEQAvD_BwE). All [Autodesk](https://www.autodesk.com/education/edu-software/overview) products are available free of charge to students and educators.
 
 ## Schedule
 
