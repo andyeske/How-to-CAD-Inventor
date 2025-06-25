@@ -54,7 +54,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Asynchronous: To be posted..
 * In-person: To be posted..
 
-**Session Slides and File Parts:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%201) folder.
+**Session Slides and File Parts:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%201) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -75,7 +75,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Asynchronous: To be posted.
 * In-person: To be posted.
 
-**Session Slides and File Parts:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%202) folder.
+**Session Slides and File Parts:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%202) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -97,7 +97,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Asynchronous: To be posted.
 * In-person: To be posted.
 
-**Session Slides and File Parts:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%203) folder. The pagoda file is very heavy, so it is instead available [here](https://mitprod-my.sharepoint.com/:u:/g/personal/andyeske_mit_edu/EZVmS16mcnxKj-xJz3ybGX4BNpn3gLuoPA0vhjzA3FP_SQ?e=IPVVdh).
+**Session Slides and File Parts:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%203) folder. 
 
 ---
 <a name="S4"></a>
@@ -116,7 +116,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Asynchronous: To be posted.
 * In-person: To be posted.
 
-**Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%204) folder.
+**Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%204) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -136,7 +136,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Session Recordings:** 
 * Asynchronous: To be posted.
 
-**Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%204) folder.
+**Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%204.5) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -160,7 +160,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Asynchronous: To be posted.
 * In-person: To be posted.
 
-**Session Slides and File Parts:** Available at the [Session 5](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%205) folder.
+**Session Slides and File Parts:** Available at the [Session 5](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%205) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -180,7 +180,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Asynchronous: To be posted.
 * In-person: To be posted.
 
-**Session Slides and File Parts:** Available at the [Session 6](https://github.com/andyeske/How-to-CAD-Siemens-NX/tree/main/Session%20Files/Session%206) folder.
+**Session Slides and File Parts:** Available at the [Session 6](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%206) folder.
 
 ([ back to top ](#back_to_top))
 
