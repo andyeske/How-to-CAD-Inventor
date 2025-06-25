@@ -41,7 +41,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ### Session 1: Introduction to Autodesk Inventor!
 (Tuesday, January 6)
 
-**Objective:** In this session, we’ll get ourselves acquainted with the NX workspace, and start learning some of the most used tools. Session 1’s goals include: 
+**Objective:** In this session, we’ll get ourselves acquainted with the Inventor workspace, and start learning some of the most used tools. Session 1’s goals include: 
 * Creating sketches (using basic shapes, construction lines, smart-dimensioning, sketch relationships) and understanding planes.
 * Understanding what it means for a sketch to be fully defined.
 * Locating and using the different elementary feature commands (boss extrude, boss cut, fillet, chamfer).
@@ -65,7 +65,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ### Session 2: Splines, Sketch Pictures and logos!
 (Thursday, January 8)
 
-**Objective:** In this session, we’ll continue exploring some of the most powerful NX tools. Session 2’s goals include:
+**Objective:** In this session, we’ll continue exploring some of the most powerful Inventor tools. Session 2’s goals include:
 * Learning how to use the spline tool.
 * Learning how to add a picture and sketch on it.
 
@@ -106,7 +106,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ### Session 4: Sweeping through the courts!
 (Thursday, January 15)
 
-**Objective:** In this session, we’ll explore two very powerful NX tools, through curves and through curves mesh. These tools allow us to create complicated looking geometries, like the body of a 747 or the surface of an apple. Session 4’s goals include: 
+**Objective:** In this session, we’ll explore two very powerful Inventor tools, through curves and through curves mesh. These tools allow us to create complicated looking geometries, like the body of a 747 or the surface of an apple. Session 4’s goals include: 
 * Learning how to the through curves command.
 * Continuing to master previously explored tools, such as revolve, linear/circular patterns and plane creation.
 
