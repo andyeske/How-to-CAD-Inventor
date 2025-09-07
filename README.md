@@ -14,7 +14,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Instructors:** [Andy Eskenazi](https://lae.mit.edu/team/andy-eskenazi/) (MIT LAE PhD Student) and [Mollie Johnson](https://systems.mit.edu/team/mollie-johnson/) (MIT ESL PhD Student).
 
-**Meeting Times:** Tuesdays (T), Wednesday (W), and Thursdays (Th), 3:00pm - 5:00pm. There are a total of 8 weekly sessions, starting on 01/13/25 until 01/29/25. The sessions will take place on 01/13 (T - CAD), 01/15 (Th - CAD), 01/20 (T - CAD), 01/21 (W - VR), 01/22 (Th - CAD), 01/27 (T - CAD), 01/28 (W - VR), and 01/29 (Th - CAD).
+**Meeting Times:** Tuesdays (T), Wednesday (W), and Thursdays (Th), 3:00pm - 5:00pm. There are a total of 8 weekly sessions (6 CAD, 2 VR), starting on 01/13/25 until 01/29/25. The sessions will take place on 01/13 (T), 01/15 (Th), 01/20 (T), 01/21 (W), 01/22 (Th), 01/27 (T), 01/28 (W), and 01/29 (Th).
 
 **Meeting Room:** [GIS & Data Lab](https://libraries.mit.edu/data-services/gis-data-lab/), Rotch Library (7-238).
 
