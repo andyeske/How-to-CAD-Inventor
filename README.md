@@ -116,6 +116,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Session Recordings:** 
 * In-person: To be posted.
 
+([ back to top ](#back_to_top))
+
 ---
 <a name="S4"></a>
 ### Session 4: Sweeping through the courts!
@@ -191,6 +193,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Recordings:** 
 * In-person: To be posted.
+
+([ back to top ](#back_to_top))
 
 ---
 <a name="S6"></a>
