@@ -94,7 +94,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to create planes, at different angles.
 
 **Session Activity:** Using the tools learned on Session 3, we’ll design a variety of items, including:
-* A fidget spinner!
+* A [tambourine](https://cdn11.bigcommerce.com/s-ourux4doxk/images/stencil/608x608/products/2698/7124/CP378-__98452.1727207154.png?c=1).
 * A model of the [Taipei 101](https://www.always5star.com/wp-content/uploads/2019/01/always5star-taipei-taiwan-101-building-1.jpg) tower.
 
 **Session Recordings:** 
