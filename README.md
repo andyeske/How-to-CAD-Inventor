@@ -12,9 +12,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 ## Workshop Details
 
-**Instructors:** 
-* [Andy Eskenazi](https://lae.mit.edu/team/andy-eskenazi/) (MIT LAE PhD Student).
-* [Mollie Johnson](https://systems.mit.edu/team/mollie-johnson/) (MIT ESL PhD Student).
+**Instructors:** [Andy Eskenazi](https://lae.mit.edu/team/andy-eskenazi/) (MIT LAE PhD Student) and [Mollie Johnson](https://systems.mit.edu/team/mollie-johnson/) (MIT ESL PhD Student).
 
 **Meeting Times:** Tuesdays (T), Wednesday (W), and Thursdays (Th), 3:00pm - 5:00pm. There are a total of 8 weekly sessions, starting on 01/13/25 until 01/29/25. The sessions will take place on 01/13 (T - CAD), 01/15 (Th - CAD), 01/20 (T - CAD), 01/21 (W - VR), 01/22 (Th - CAD), 01/27 (T - CAD), 01/28 (W - VR), and 01/29 (Th - CAD).
 
@@ -24,9 +22,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Course Files:** Available at the [Session Files](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files) folder.
 
-**Software:** 
-* CAD: Autodesk [Inventor](https://www.autodesk.com/products/inventor/overview). All Autodesk products are available [free of charge](https://www.autodesk.com/education/edu-software/overview) to students and educators.
-* VR: [Unity](https://unity.com/) Game Engine, which is also available [free of charge](https://unity.com/es/products/unity-student) to students and educators.
+**Software:** CAD: Autodesk [Inventor](https://www.autodesk.com/products/inventor/overview). All Autodesk products are available [free of charge](https://www.autodesk.com/education/edu-software/overview) to students and educators | VR: [Unity](https://unity.com/) Game Engine, which is also available [free of charge](https://unity.com/es/products/unity-student) to students and educators.
 
 ## Schedule
 
