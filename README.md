@@ -8,7 +8,7 @@ Ever wondered how are objects from our daily lives designed? How can we generate
 
 Split into 8 (6 CAD, 2 VR) 2-hour long sessions, the first half of each session will be spent learning new Autodesk [Inventor](https://www.autodesk.com/products/inventor/overview) and VR skills, while the second half will see the application of these new skills through in-class activities, with a focus on reverse engineering. In contrast to traditional mechanical design courses, this workshop places greater emphasis on the design process itself, understanding how we can plan and best leverage our available tools to arrive to our desired result. Thus, the sessions are less about following the instructions on an engineering drawing, and more about independent thinking and strategizing, reverse engineering an object into a 3D model. New to this edition of "How to CAD" are 2 sessions that will go through the process of visualizing 3D models using VR!
 
-_This course is a sibling version of the original ["How to CAD Almost Anything"](https://github.com/andyeske/How-to-CAD-Almost-Anything) course, adapted into 8, 2-hour long sessions. This course is intended for both existing Solidworks (or other CAD software) users looking to learn a new CAD software, as well as new users trying to learn how to CAD)_.
+_This course is a sibling version of the original ["How to CAD Almost Anything"](https://github.com/andyeske/How-to-CAD-Almost-Anything) course, adapted into 8, 2-hour long sessions. This course is intended for both existing Solidworks (or other CAD software) users looking to learn a new CAD software, as well as new users trying to learn how to CAD_.
 
 ## Workshop Details
 
