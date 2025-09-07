@@ -1,20 +1,22 @@
 <a name="back_to_top"></a>
-# How to CAD Almost Anything: MIT IAP 2026
-Welcome to How to CAD Almost Anything! Inventor edition. In this repository, you'll find the workshop's slides, recordings and Autodesk Inventor files.
+# How to CAD (and VR) Almost Anything: MIT IAP 2026
+Welcome to How to CAD (and VR) Almost Anything! Inventor edition. In this repository, you'll find the workshop's slides, recordings and Autodesk Inventor files.
 
 ## Workshop Summary
 
-Ever wondered how are objects from our daily lives designed? How can we generate a computer 3D model of a classic iPod, a Play Station controller, or a LEGO Tower Bridge? What about designing the Taipei 101 tower? A banana? In this fun MIT IAP 2026 workshop, you will learn the skills to design all of these, and much more! 
+Ever wondered how are objects from our daily lives designed? How can we generate a computer 3D model of a classic iPod, a Play Station controller, or a LEGO Tower Bridge? What about designing the Taipei 101 tower? A banana? Or how about visualizing and interacting with these objects using VR? In this fun MIT IAP 2026 workshop, you will learn the skills to design and VR-visualize all of these, and much more! 
 
-Split into 6 2-hour long sessions, the first half of each session will be spent learning new Autodesk [Inventor](https://www.autodesk.com/products/inventor/overview) skills, while the second half will see the application of these new skills through in-class activities, with a focus on reverse engineering. In contrast to traditional mechanical design courses, this workshop places greater emphasis on the design process itself, understanding how we can plan and best leverage our available tools to arrive to our desired result. Thus, the sessions are less about following the instructions on an engineering drawing, and more about independent thinking and strategizing, reverse engineering an object into a 3D model. 
+Split into 8 (6 CAD, 2 VR) 2-hour long sessions, the first half of each session will be spent learning new Autodesk [Inventor](https://www.autodesk.com/products/inventor/overview) and VR skills, while the second half will see the application of these new skills through in-class activities, with a focus on reverse engineering. In contrast to traditional mechanical design courses, this workshop places greater emphasis on the design process itself, understanding how we can plan and best leverage our available tools to arrive to our desired result. Thus, the sessions are less about following the instructions on an engineering drawing, and more about independent thinking and strategizing, reverse engineering an object into a 3D model. New to this edition of "How to CAD" are 2 sessions that will go through the process of visualizing 3D models using VR!
 
-_This course is a sibling version of the original ["How to CAD Almost Anything"](https://github.com/andyeske/How-to-CAD-Almost-Anything) course, adapted into 6, 2-hour long sessions. This course is intended for both existing Solidworks (or other CAD software) users looking to learn a new CAD software, as well as new users trying to learn how to CAD)_.
+_This course is a sibling version of the original ["How to CAD Almost Anything"](https://github.com/andyeske/How-to-CAD-Almost-Anything) course, adapted into 8, 2-hour long sessions. This course is intended for both existing Solidworks (or other CAD software) users looking to learn a new CAD software, as well as new users trying to learn how to CAD)_.
 
 ## Workshop Details
 
-**Instructor:** [Andy Eskenazi](https://lae.mit.edu/team/andy-eskenazi/) (MIT LAE PhD Student).
+**Instructors:** 
+* [Andy Eskenazi](https://lae.mit.edu/team/andy-eskenazi/) (MIT LAE PhD Student).
+* [Mollie Johnson](https://systems.mit.edu/team/mollie-johnson/) (MIT ESL PhD Student).
 
-**Meeting Times:** Tuesdays and Thursdays, 3:00pm - 5:00pm. There are 6 weekly sessions, starting on 01/06/25 until 01/22/25. The sessions will take place on 01/06, 01/08, 01/13, 01/15, 01/20, and 01/22.
+**Meeting Times:** Tuesdays (T), Wednesday (W), and Thursdays (Th), 3:00pm - 5:00pm. There are a total of 8 weekly sessions, starting on 01/13/25 until 01/29/25. The sessions will take place on 01/13 (T - CAD), 01/15 (Th - CAD), 01/20 (T - CAD), 01/21 (W - VR), 01/22 (Th - CAD), 01/27 (T - CAD), 01/28 (W - VR), and 01/29 (Th - CAD).
 
 **Meeting Room:** [GIS & Data Lab](https://libraries.mit.edu/data-services/gis-data-lab/), Rotch Library (7-238).
 
@@ -22,7 +24,9 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Course Files:** Available at the [Session Files](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files) folder.
 
-**Software:** Autodesk [Inventor](https://www.autodesk.com/products/inventor/overview). All Autodesk products are available [free of charge](https://www.autodesk.com/education/edu-software/overview) to students and educators.
+**Software:** 
+* CAD: Autodesk [Inventor](https://www.autodesk.com/products/inventor/overview). All Autodesk products are available [free of charge](https://www.autodesk.com/education/edu-software/overview) to students and educators.
+* VR: [Unity](https://unity.com/) Game Engine, which is also available [free of charge](https://unity.com/es/products/unity-student) to students and educators.
 
 ## Schedule
 
@@ -31,15 +35,17 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 1. [ Session 1 ](#S1)
 2. [ Session 2 ](#S2)
 3. [ Session 3 ](#S3)
-4. [ Session 4 ](#S4)
-5. [ Session 4.5 ](#S4half)
-6. [ Session 5 ](#S5)
-7. [ Session 6 ](#S6)
+4. [ Session 3.5 ](#S3half)
+5. [ Session 4 ](#S4)
+6. [ Session 4.5 ](#S4half)
+7. [ Session 5 ](#S5)
+8. [ Session 5.5 ](#S5half)
+9. [ Session 6 ](#S6)
 
 ---
 <a name="S1"></a>
 ### Session 1: Introduction to Autodesk Inventor!
-(Tuesday, January 6)
+(Tuesday, January 13)
 
 **Objective:** In this session, we’ll get ourselves acquainted with the Inventor workspace, and start learning some of the most used tools. Session 1’s goals include: 
 * Creating sketches (using basic shapes, construction lines, smart-dimensioning, sketch relationships) and understanding planes.
@@ -63,7 +69,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ---
 <a name="S2"></a>
 ### Session 2: Splines, Sketch Pictures and logos!
-(Thursday, January 8)
+(Thursday, January 15)
 
 **Objective:** In this session, we’ll continue exploring some of the most powerful Inventor tools. Session 2’s goals include:
 * Learning how to use the spline tool.
@@ -84,7 +90,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ---
 <a name="S3"></a>
 ### Session 3: All about symmetry, patterns and planes!
-(Tuesday, January 13)
+(Tuesday, January 20)
 
 **Objective:** In this session, we’ll focus our attention to symmetry, patterns and planes, and how we can leverage certain tools to simplify the design process. Session 3’s goals include: 
 * Understanding how to create a sketch for a revolve.
@@ -102,9 +108,22 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Session Slides and File Parts:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%203) folder. 
 
 ---
+<a name="S3half"></a>
+### Session 3.5: Entering the VR World, Part 1
+(Wednesday, January 21)
+
+**Objective:** In this session, we’ll start work to visualize our CAD objects from S1 – S3 with VR using the software Unity. Session 3.5’s goals include: 
+* Familiarizing ourselves with the Unity interface.
+* Learning how to transform objects from Inventor into a format suitable for VR.
+* Learning how to implement the open-source [VR template](https://github.com/mojohn23/CAD2VR).
+
+**Session Recordings:** 
+* In-person: To be posted.
+
+---
 <a name="S4"></a>
 ### Session 4: Sweeping through the courts!
-(Thursday, January 15)
+(Thursday, January 22)
 
 **Objective:** In this session, we’ll explore two very powerful Inventor tools, through curves and through curves mesh. These tools allow us to create complicated looking geometries, like the body of a 747 or the surface of an apple. Session 4’s goals include: 
 * Learning how to the through curves command.
@@ -138,14 +157,14 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Session Recordings:** 
 * Asynchronous: To be posted.
 
-**Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%204.5) folder.
+**Session Slides and File Parts:** Available at the [Session 4.5](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%204.5) folder.
 
 ([ back to top ](#back_to_top))
 
 ---
 <a name="S5"></a>
 ### Session 5: Living in a world made from plastic bricks!
-(Tuesday, January 20)
+(Tuesday, January 27)
 
 **Objective:** In this session, we’ll move towards one of the most powerful features within CAD parametric softwares, which is that of making assemblies! Session 5’s goals include: 
 * Learning how to make an assembly of multiple parts.
@@ -166,9 +185,21 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ([ back to top ](#back_to_top))
 
 ---
+<a name="S5half"></a>
+### Session 5.5: Entering the VR World, Part 2
+(Wednesday, January 28)
+
+**Objective:** In this session, we’ll continue work visualizing our CAD objects from S4 – S5 with VR. Session 5.5’s goals include: 
+* Modifying parameters of the open-source [VR template](https://github.com/mojohn23/CAD2VR).
+* Learning how to use “grabbable” objects. 
+
+**Session Recordings:** 
+* In-person: To be posted.
+
+---
 <a name="S6"></a>
 ### Session 6: Variable Tables and Equations!
-(Thursday, January 22)
+(Thursday, January 29)
 
 **Objective:** In this session, we'll investigate two often underappreciated yet extremely useful tools, parameter tables and equations/expressions. These tools allow the user to create various configurations of the same model, depending on specific needs. Session 6’s goals include: 
 * Learning how to create equations and incorporate them into a parameter table.
