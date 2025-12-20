@@ -74,6 +74,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Session Activity:** Using the tools learned on Session 2, we’ll design a variety of items, including:
 * An MIT [intramurals](https://intramurals.mit.edu/wp-content/uploads/sites/2/2019/05/mit-intramurals-color.png) banner.
 * A keychain of your favorite sports team.
+* BONUS: [Zapdos EX](https://i.ebayimg.com/images/g/-p0AAOSwFKxoG0pF/s-l1200.jpg) Pokemon Card (Scarlet & Violet 151).
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
@@ -96,6 +97,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Session Activity:** Using the tools learned on Session 3, we’ll design a variety of items, including:
 * A [tambourine](https://cdn11.bigcommerce.com/s-ourux4doxk/images/stencil/608x608/products/2698/7124/CP378-__98452.1727207154.png?c=1).
 * A model of the [Taipei 101](https://www.always5star.com/wp-content/uploads/2019/01/always5star-taipei-taiwan-101-building-1.jpg) tower.
+* BONUS: A model of the [Oriental Pearl](https://upload.wikimedia.org/wikipedia/commons/1/1f/Oriental_Pearl_Tower_in_Shanghai.jpg) tower.
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
@@ -173,6 +175,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A standard [2x4 LEGO brick](https://p.turbosquid.com/ts-thumb/I9/hYi8QZ/QyaXDmfH/lego_brick_2x4_earth_green_thumbnail_0000/jpg/1558617193/1920x1080/fit_q87/7a98b66fde1c475f97f5367029078a34496d722e/lego_brick_2x4_earth_green_thumbnail_0000.jpg) (as well as numerous others)!
 * A simple [LEGO Tower Bridge](https://i.ytimg.com/vi/6iJMdX7n_7I/maxresdefault.jpg) assembly.
 * An engineering drawing of the Tower Bridge assembly and one of the LEGO bricks.
+* BONUS: A playmobil [figure](https://i.pinimg.com/736x/0c/56/7e/0c567ed6171f3b0e642cc5b6a3ad9fc7.jpg).
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
