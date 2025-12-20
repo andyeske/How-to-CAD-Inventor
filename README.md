@@ -97,7 +97,6 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Session Activity:** Using the tools learned on Session 3, we’ll design a variety of items, including:
 * A [tambourine](https://cdn11.bigcommerce.com/s-ourux4doxk/images/stencil/608x608/products/2698/7124/CP378-__98452.1727207154.png?c=1).
 * A model of the [Taipei 101](https://www.always5star.com/wp-content/uploads/2019/01/always5star-taipei-taiwan-101-building-1.jpg) tower.
-* BONUS: A model of the [Oriental Pearl](https://upload.wikimedia.org/wikipedia/commons/1/1f/Oriental_Pearl_Tower_in_Shanghai.jpg) tower.
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
