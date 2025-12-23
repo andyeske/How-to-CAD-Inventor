@@ -30,13 +30,14 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 1. [ Session 1 ](#S1)
 2. [ Session 2 ](#S2)
-3. [ Session 3 ](#S3)
-4. [ Session 3.5 ](#S3half)
-5. [ Session 4 ](#S4)
-6. [ Session 4.5 ](#S4half)
-7. [ Session 5 ](#S5)
-8. [ Session 5.5 ](#S5half)
-9. [ Session 6 ](#S6)
+3. [ Session 2.5 ](#S2half)
+4. [ Session 3 ](#S3)
+5. [ Session 3.5 ](#S3half)
+6. [ Session 4 ](#S4)
+7. [ Session 4.5 ](#S4half)
+8. [ Session 5 ](#S5)
+9. [ Session 5.5 ](#S5half)
+10. [ Session 6 ](#S6)
 
 ---
 <a name="S1"></a>
@@ -80,7 +81,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 (Thursday, January 15)
 
 **Objective:** In this session, we’ll continue exploring some of the most powerful Inventor tools. Session 2’s goals include:
-* Learning how to use the spline tool.
+* Learning how to use the spline tool and project geometry.
 * Learning how to add a picture and sketch on it.
 
 **Session Activity:** Using the tools learned on Session 2, we’ll design a variety of items, including:
@@ -88,7 +89,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A keychain of your favorite sports team.
 
 **Session Recordings:** 
-* Asynchronous: To be posted.
+* Asynchronous: https://youtu.be/6GsYKl3T72c.
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%202) folder.
@@ -112,8 +113,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ### (BONUS) Session 2.5: Autodesk Inventor, I choose you!
 (online only)
 
-**Objective:** In this session, we’ll integrate the commands learned during Sessions 1 and 2. Session 2.5’s goals include: 
-* Revising some of the previously learned commands, including extrude, fillet, chamfer, sketch picture, and convert entities.
+**Objective:** In this session, we’ll revise the contents learned during Session 1 and Session 2. Session 2.5’s goals include: 
+* Revising some of the previously learned commands, including extrude, fillet, chamfer, sketch picture, and project geometry.
 * Continueing to learn how to employ the "Master Sketch" technique.
 
 **Session Activity:** We’ll design a variety of items, including:
