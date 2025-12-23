@@ -55,8 +55,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A first-generation iPod USB [Power Adapter](https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2006/472/x472USBPAD-f.jpeg).
 
 **Session Recordings:** 
-* Asynchronous: To be posted..
-* In-person: To be posted..
+* Asynchronous: https://youtu.be/-8hyzHUKKMk.
+* In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%201) folder.
 
