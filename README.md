@@ -84,7 +84,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to add a picture and sketch on it.
 
 **Session Activity:** Using the tools learned on Session 2, we’ll design a variety of items, including:
-* An MIT [intramurals](https://intramurals.mit.edu/wp-content/uploads/sites/2/2019/05/mit-intramurals-color.png) banner.
+* An MIT [Intramurals](https://intramurals.mit.edu/wp-content/uploads/sites/2/2019/05/mit-intramurals-color.png) Banner.
 * A keychain of your favorite sports team.
 * BONUS: [Zapdos EX](https://i.ebayimg.com/images/g/-p0AAOSwFKxoG0pF/s-l1200.jpg) Pokemon Card (Scarlet & Violet 151).
 
@@ -93,6 +93,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%202) folder.
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%202/MIT%20Intramurals%20Banner.png" width="500"> 
+
+**Figure:** _An MIT Intramurals Banner_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%202/Sports%20Team%20Keychain.png" width="500"> 
+
+**Figure:** _A sports team keychain_.
+</p>
 
 ([ back to top ](#back_to_top))
 
