@@ -123,7 +123,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Session Recordings:** 
 * Asynchronous: To be posted.
 
-**Session Slides and File Parts:** Available at the [Session 2.5](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%204.5) folder.
+**Session Slides and File Parts:** Available at the [Session 2.5](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%202.5) folder.
 
 ([ back to top ](#back_to_top))
 
