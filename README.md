@@ -86,7 +86,6 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Session Activity:** Using the tools learned on Session 2, we’ll design a variety of items, including:
 * An MIT [Intramurals](https://intramurals.mit.edu/wp-content/uploads/sites/2/2019/05/mit-intramurals-color.png) Banner.
 * A keychain of your favorite sports team.
-* BONUS: [Zapdos EX](https://i.ebayimg.com/images/g/-p0AAOSwFKxoG0pF/s-l1200.jpg) Pokemon Card (Scarlet & Violet 151).
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
@@ -105,6 +104,26 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Figure:** _A sports team keychain_.
 </p>
+
+([ back to top ](#back_to_top))
+
+---
+<a name="S2half"></a>
+### (BONUS) Session 2.5: Autodesk Inventor, I choose you!
+(online only)
+
+**Objective:** In this session, we’ll integrate the commands learned during Sessions 1 and 2. Session 2.5’s goals include: 
+* Revising some of the previously learned commands, including extrude, fillet, chamfer, sketch picture, and convert entities.
+* Continueing to learn how to employ the "Master Sketch" technique.
+
+**Session Activity:** We’ll design a variety of items, including:
+* A first-generation Nintendo [Gameboy](https://static.wikia.nocookie.net/pokemon/images/3/32/Gameboy.jpg/revision/latest?cb=20230212201848).
+* A [Zapdos EX](https://i.ebayimg.com/images/g/-p0AAOSwFKxoG0pF/s-l1200.jpg) Pokemon Card (Scarlet & Violet 151).
+
+**Session Recordings:** 
+* Asynchronous: To be posted.
+
+**Session Slides and File Parts:** Available at the [Session 2.5](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%204.5) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -173,7 +192,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Revising some of the previously learned commands, including loft, revolve, sweep, plane creations, patterns, filleting, and material properties.
 * Learning how to employ the wrap command (for engravings).
 
-**Session Activity:** Using the tools learned on Session 5, we’ll design a variety of items, including:
+**Session Activity:** We’ll design a variety of items, including:
 * A Coca Cola Light [150ml can](https://m.media-amazon.com/images/I/71g+q5PnDQL._UF894,1000_QL80_.jpg) (with labels included).
 * A model of the [X-wing](https://static.wikia.nocookie.net/starwars/images/8/80/X-wing_Fathead.png/revision/latest?cb=20161004003846) fighter.
 
