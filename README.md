@@ -60,6 +60,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Slides and File Parts:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%201) folder.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%201/iPod%20Classic.png" width="500"> 
+
+**Figure:** _A first-generation iPod_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%201/iPod%20Power%20Adapter.png" width="500"> 
+
+**Figure:** _A first-generation iPod USB Power Adapter_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
