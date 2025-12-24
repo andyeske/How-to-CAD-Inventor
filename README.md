@@ -122,7 +122,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A [Zapdos EX](https://i.ebayimg.com/images/g/-p0AAOSwFKxoG0pF/s-l1200.jpg) Pokemon Card (Scarlet & Violet 151).
 
 **Session Recordings:** 
-* Asynchronous (Part 1): To be posted.
+* Asynchronous (Part 1): https://www.youtube.com/watch?v=aqfQ5YDUJzY.
 * Asynchronous (Part 2): To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 2.5](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%202.5) folder.
