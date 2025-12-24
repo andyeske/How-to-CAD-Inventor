@@ -118,8 +118,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Continueing to learn how to employ the "Master Sketch" technique.
 
 **Session Activity:** We’ll design a variety of items, including:
-* A first-generation Nintendo [Gameboy](https://static.wikia.nocookie.net/pokemon/images/3/32/Gameboy.jpg/revision/latest?cb=20230212201848).
 * A [Zapdos EX](https://i.ebayimg.com/images/g/-p0AAOSwFKxoG0pF/s-l1200.jpg) Pokemon Card (Scarlet & Violet 151).
+* A first-generation Nintendo [Gameboy](https://static.wikia.nocookie.net/pokemon/images/3/32/Gameboy.jpg/revision/latest?cb=20230212201848).
 
 **Session Recordings:** 
 * Asynchronous (Part 1): https://www.youtube.com/watch?v=aqfQ5YDUJzY.
