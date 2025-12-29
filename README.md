@@ -133,6 +133,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _A Zapdos EX Pokemon Card_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%202.5/Gameboy.png" width="500"> 
+
+**Figure:** _A first-generation Nintendo Gameboy_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
