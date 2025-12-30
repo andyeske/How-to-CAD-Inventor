@@ -77,7 +77,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 ---
 <a name="S2"></a>
-### Session 2: Splines, Sketch Pictures and logos!
+### Session 2: Splines, Sketch Pictures and Logos!
 (Thursday, January 15)
 
 **Objective:** In this session, we’ll continue exploring some of the most powerful Inventor tools. Session 2’s goals include:
@@ -143,7 +143,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 ---
 <a name="S3"></a>
-### Session 3: All about symmetry, patterns and planes!
+### Session 3: All about Symmetry, Patterns and Planes!
 (Tuesday, January 20)
 
 **Objective:** In this session, we’ll focus our attention to symmetry, patterns and planes, and how we can leverage certain tools to simplify the design process. Session 3’s goals include: 
@@ -163,7 +163,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 ---
 <a name="S3half"></a>
-### Session 3.5: Entering the VR World, Part 1
+### Session 3.5: Entering the VR World, Part I
 (Wednesday, January 21)
 
 **Objective:** In this session, we’ll start work to visualize our CAD objects from S1 – S3 with VR using the software Unity. Session 3.5’s goals include: 
@@ -178,7 +178,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 ---
 <a name="S4"></a>
-### Session 4: Sweeping through the courts!
+### Session 4: Sweeping through the Videogame!
 (Thursday, January 22)
 
 **Objective:** In this session, we’ll explore two very powerful Inventor tools, through curves and through curves mesh. These tools allow us to create complicated looking geometries, like the body of a 747 or the surface of an apple. Session 4’s goals include: 
@@ -199,7 +199,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 ---
 <a name="S4half"></a>
-### (BONUS) Session 4.5: Let's have a 3D-modeled Coke!
+### (BONUS) Session 4.5: Let's have a 3D-modeled Coke in a Galaxy Far, Far Away!
 (online only)
 
 **Objective:** In this session, we’ll revise all of our previously learned commands (+ the useful wrap), to make sure we know how to properly use all of them. Session 4.5’s goals include: 
@@ -219,7 +219,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 ---
 <a name="S5"></a>
-### Session 5: Living in a world made from plastic bricks!
+### Session 5: Living in a World made out of Plastic Bricks!
 (Tuesday, January 27)
 
 **Objective:** In this session, we’ll move towards one of the most powerful features within CAD parametric softwares, which is that of making assemblies! Session 5’s goals include: 
@@ -243,7 +243,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 ---
 <a name="S5half"></a>
-### Session 5.5: Entering the VR World, Part 2
+### Session 5.5: Entering the VR World, Part II
 (Wednesday, January 28)
 
 **Objective:** In this session, we’ll continue work visualizing our CAD objects from S4 – S5 with VR. Session 5.5’s goals include: 
