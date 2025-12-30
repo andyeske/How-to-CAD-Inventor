@@ -161,6 +161,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Slides and File Parts:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%203) folder. 
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%203/Tambourine.png" width="500"> 
+
+**Figure:** _A tambourine model_.
+</p>
+
 ---
 <a name="S3half"></a>
 ### Session 3.5: Entering the VR World, Part I
@@ -178,7 +184,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 ---
 <a name="S4"></a>
-### Session 4: Sweeping through the Videogame!
+### Session 4: Sweeping through Videogames!
 (Thursday, January 22)
 
 **Objective:** In this session, we’ll explore two very powerful Inventor tools, through curves and through curves mesh. These tools allow us to create complicated looking geometries, like the body of a 747 or the surface of an apple. Session 4’s goals include: 
