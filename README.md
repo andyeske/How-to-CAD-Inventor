@@ -122,8 +122,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A first-generation Nintendo [Gameboy](https://static.wikia.nocookie.net/pokemon/images/3/32/Gameboy.jpg/revision/latest?cb=20230212201848).
 
 **Session Recordings:** 
-* Asynchronous (Part 1): https://www.youtube.com/watch?v=aqfQ5YDUJzY.
-* Asynchronous (Part 2): To be posted.
+* Asynchronous (Part 1): https://youtu.be/aqfQ5YDUJzY.
+* Asynchronous (Part 2): https://youtu.be/Nqd5tc93GPs.
 
 **Session Slides and File Parts:** Available at the [Session 2.5](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%202.5) folder.
 
