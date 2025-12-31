@@ -159,12 +159,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Asynchronous: To be posted.
 * In-person: To be posted.
 
-**Session Slides and File Parts:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%203) folder. 
+**Session Slides and File Parts:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%203) folder. The Taipei 101 file is very heavy, so it is instead available [here](https://mitprod-my.sharepoint.com/:u:/g/personal/andyeske_mit_edu/IQBKfoCuudyOTZPz2SiLO8x_ATtbAMR837x8pGTNdh4rzno?e=UJQfSZ).
 
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%203/Tambourine.png" width="500"> 
 
 **Figure:** _A tambourine model_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%203/Taipei%20101.png" width="500"> 
+
+**Figure:** _A model of the Taipei 101_.
 </p>
 
 ---
