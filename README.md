@@ -156,7 +156,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A model of the [Taipei 101](https://www.always5star.com/wp-content/uploads/2019/01/always5star-taipei-taiwan-101-building-1.jpg) tower.
 
 **Session Recordings:** 
-* Asynchronous: To be posted.
+* Asynchronous: https://youtu.be/t-OKwo2i36s.
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%203) folder. The Taipei 101 file is very heavy, so it is instead available [here](https://mitprod-my.sharepoint.com/:u:/g/personal/andyeske_mit_edu/IQBKfoCuudyOTZPz2SiLO8x_ATtbAMR837x8pGTNdh4rzno?e=UJQfSZ).
