@@ -207,6 +207,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%204) folder.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%204/Banana.png" width="500"> 
+
+**Figure:** _A banana_!
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
