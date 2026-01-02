@@ -210,7 +210,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%204/Banana.png" width="500"> 
 
-**Figure:** _A banana_!
+**Figure:** _A dual-color banana_!
 </p>
 
 <p align="left">
