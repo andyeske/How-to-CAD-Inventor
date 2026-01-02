@@ -213,6 +213,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _A banana_!
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%204/Play%20Station%20Controller.png" width="500"> 
+
+**Figure:** _A Play Station 1 (dualshock) controller_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
