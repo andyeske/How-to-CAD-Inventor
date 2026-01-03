@@ -232,7 +232,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Activity:** We’ll design a variety of items, including:
 * A classic [150ml](https://m.media-amazon.com/images/I/71g+q5PnDQL._UF894,1000_QL80_.jpg) Diet Coke can (with labels included).
-* A model of the [X-wing](https://static.wikia.nocookie.net/starwars/images/8/80/X-wing_Fathead.png/revision/latest?cb=20161004003846) fighter.
+* A model of the [X-wing](https://lumiere-a.akamaihd.net/v1/images/X-Wing-Fighter_47c7c342.jpeg?region=0%2C1%2C1536%2C864) fighter.
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
