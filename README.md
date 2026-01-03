@@ -198,8 +198,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Continuing to master previously explored tools, such as revolve, linear/circular patterns and plane creation.
 
 **Session Activity:** Using the tools learned on Session 4, we’ll design a variety of items, including:
-* A Play Station 1 [controller](https://mikesgameshop.com/cdn/shop/products/005123-1.jpg?v=1659137472).
 * A banana, in honor of the banana lounge (using various plane cuts, splines and lofts).
+* A Play Station 1 [controller](https://mikesgameshop.com/cdn/shop/products/005123-1.jpg?v=1659137472).
 
 **Session Recordings:** 
 * Asynchronous: https://youtu.be/VD5uWM69BBY.
