@@ -125,7 +125,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Asynchronous (Part 1): https://youtu.be/aqfQ5YDUJzY.
 * Asynchronous (Part 2): https://youtu.be/Nqd5tc93GPs.
 
-**Session Slides and File Parts:** Available at the [Session 2.5](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%202.5) folder.
+**Session File Parts:** Available at the [Session 2.5](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%202.5) folder.
 
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%202.5/Zapdos%20Pokemon%20Card.png" width="500"> 
@@ -231,13 +231,19 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to employ the wrap command (for engravings).
 
 **Session Activity:** We’ll design a variety of items, including:
-* A Coca Cola Light [150ml can](https://m.media-amazon.com/images/I/71g+q5PnDQL._UF894,1000_QL80_.jpg) (with labels included).
+* A classic [150ml](https://m.media-amazon.com/images/I/71g+q5PnDQL._UF894,1000_QL80_.jpg) Diet Coke can (with labels included).
 * A model of the [X-wing](https://static.wikia.nocookie.net/starwars/images/8/80/X-wing_Fathead.png/revision/latest?cb=20161004003846) fighter.
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
 
-**Session Slides and File Parts:** Available at the [Session 4.5](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%204.5) folder.
+**Session File Parts:** Available at the [Session 4.5](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%204.5) folder.
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Inventor/blob/main/Session%20Files/Session%204.5/Diet%20Coke.png" width="500"> 
+
+**Figure:** _A classic Diet Coke can_.
+</p>
 
 ([ back to top ](#back_to_top))
 
