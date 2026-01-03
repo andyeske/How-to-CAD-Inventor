@@ -193,8 +193,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ### Session 4: Sweeping through Videogames!
 (Thursday, January 22)
 
-**Objective:** In this session, we’ll explore two very powerful Inventor tools, through curves and through curves mesh. These tools allow us to create complicated looking geometries, like the body of a 747 or the surface of an apple. Session 4’s goals include: 
-* Learning how to the through curves command.
+**Objective:** In this session, we’ll explore two very powerful Inventor tools, loft and sweep. These tools allow us to create complicated looking geometries, like the body of a 747 or the surface of an apple. Session 4’s goals include: 
+* Learning how to use loft and sweep.
 * Continuing to master previously explored tools, such as revolve, linear/circular patterns and plane creation.
 
 **Session Activity:** Using the tools learned on Session 4, we’ll design a variety of items, including:
@@ -202,7 +202,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A banana, in honor of the banana lounge (using various plane cuts, splines and lofts).
 
 **Session Recordings:** 
-* Asynchronous: To be posted.
+* Asynchronous: https://youtu.be/VD5uWM69BBY.
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Inventor/tree/main/Session%20Files/Session%204) folder.
