@@ -51,7 +51,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Editing sketches and features after creating them.
 * Coloring parts and changing material properties.
 
-**Session Activity:** Using the tools learned on Session 1, we’ll design a variety of items, including:
+**Session Activity:** Using the tools learned on Session 1, we’ll design two objects, namely:
 * A first-generation Apple [iPod](https://cdn-ikpohij.nitrocdn.com/AXRAXcxbIDfamOcyXpIyolAXghrCRPuu/assets/images/optimized/rev-0693444/apple.cybersify.tech/wp-content/uploads/2018/06/Apple-iPod-Original-1st-Generation-Specs.jpg) Classic.
 * A first-generation iPod USB [Power Adapter](https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2006/472/x472USBPAD-f.jpeg).
 
@@ -96,7 +96,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to use the spline tool and project geometry.
 * Learning how to add a picture and sketch on it.
 
-**Session Activity:** Using the tools learned on Session 2, we’ll design a variety of items, including:
+**Session Activity:** Using the tools learned on Session 2, we’ll design two objects, namely:
 * An MIT [Intramurals](https://intramurals.mit.edu/wp-content/uploads/sites/2/2019/05/mit-intramurals-color.png) Banner.
 * A keychain of your favorite sports team.
 
@@ -135,7 +135,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Revising some of the previously learned commands, including extrude, fillet, chamfer, sketch picture, and project geometry.
 * Continueing to learn how to employ the "Master Sketch" technique.
 
-**Session Activity:** We’ll design a variety of items, including:
+**Session Activity:** We’ll design two objects, namely:
 * A [Zapdos EX](https://i.ebayimg.com/images/g/-p0AAOSwFKxoG0pF/s-l1200.jpg) Pokemon Card (Scarlet & Violet 151).
 * A first-generation Nintendo [Gameboy](https://static.wikia.nocookie.net/pokemon/images/3/32/Gameboy.jpg/revision/latest?cb=20230212201848).
 
@@ -169,7 +169,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to make use of the mirroring and circular patterns tools, both as a sketch and as a feature.
 * Learning how to create planes, at different angles.
 
-**Session Activity:** Using the tools learned on Session 3, we’ll design a variety of items, including:
+**Session Activity:** Using the tools learned on Session 3, we’ll design two objects, namely:
 * A [tambourine](https://cdn11.bigcommerce.com/s-ourux4doxk/images/stencil/608x608/products/2698/7124/CP378-__98452.1727207154.png?c=1).
 * A model of the [Taipei 101](https://www.always5star.com/wp-content/uploads/2019/01/always5star-taipei-taiwan-101-building-1.jpg) tower.
 
@@ -234,7 +234,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to use loft and sweep.
 * Continuing to master previously explored tools, such as revolve, linear/circular patterns and plane creation.
 
-**Session Activity:** Using the tools learned on Session 4, we’ll design a variety of items, including:
+**Session Activity:** Using the tools learned on Session 4, we’ll design two objects, namely:
 * A banana, in honor of the banana lounge (using various plane cuts, splines and lofts).
 * A Play Station 1 [controller](https://mikesgameshop.com/cdn/shop/products/005123-1.jpg?v=1659137472).
 
@@ -273,7 +273,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Revising some of the previously learned commands, including loft, revolve, sweep, plane creations, patterns, filleting, and material properties.
 * Learning how to employ the emboss command (for engravings).
 
-**Session Activity:** We’ll design a variety of items, including:
+**Session Activity:** We’ll design two objects, namely:
 * A classic [150ml](https://m.media-amazon.com/images/I/71g+q5PnDQL._UF894,1000_QL80_.jpg) Diet Coke can (with labels included).
 * A model of the [X-wing](https://lumiere-a.akamaihd.net/v1/images/X-Wing-Fighter_47c7c342.jpeg?region=0%2C1%2C1536%2C864) Fighter.
 
@@ -306,7 +306,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to make an exploded view of an assembly.
 * Learning how to create an engineering drawing of a part and assembly (including exploded views).
 
-**Session Activity:** Using the tools learned on Session 5, we’ll design a variety of items, including:
+**Session Activity:** Using the tools learned on Session 5, we’ll design a set of objects, namely:
 * A standard [2x4 LEGO Brick](https://p.turbosquid.com/ts-thumb/I9/hYi8QZ/QyaXDmfH/lego_brick_2x4_earth_green_thumbnail_0000/jpg/1558617193/1920x1080/fit_q87/7a98b66fde1c475f97f5367029078a34496d722e/lego_brick_2x4_earth_green_thumbnail_0000.jpg) (as well as numerous others)!
 * A simple [LEGO Tower Bridge](https://i.ytimg.com/vi/6iJMdX7n_7I/maxresdefault.jpg) assembly.
 * An engineering drawing of one of the LEGO bricks.
@@ -392,7 +392,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to create parameters and equations.
 * Creating configurations of the same model.
 
-**Session Activity:** Using the tools learned on Session 6, we’ll design a variety of items, including:
+**Session Activity:** Using the tools learned on Session 6, we’ll design two objects, namely:
 * An airplane [economy seat](https://prd-sc102-cdn.rtx.com/-/media/ca/product-assets/marketing/0-9/1/1703-be-777-aspire-cam1-b-1920x1080.jpg?rev=0e2abb1805e248d5af40a8876fc3243d) (and its associated multiple configurations)!
 
 **Session Recordings:** 
